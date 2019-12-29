@@ -1,0 +1,6 @@
+[submodule "switch-nanogui"]
+	path = switch-nanogui
+	url = https://gitlab.com/switchroot/switch-nanogui.git
+[submodule "borealis"]
+	path = borealis
+	url = https://github.com/natinusala/borealis
